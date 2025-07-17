@@ -38,3 +38,8 @@ override.tf.json
 terraform.rc
 
 # End of https://www.toptal.com/developers/gitignore/api/terraform
+
+
+# Provider binaries (e.g., your linux_386 folder)
+**/terraform-provider-aws*
+**/LICENSE.txt
